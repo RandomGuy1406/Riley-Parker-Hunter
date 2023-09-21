@@ -1,2 +1,4 @@
 # RileyParkerHunter
-All about the chunky dino plush, Riley Parker Hunter.
+<head> 
+  <Title> All About the Pink Chunky Dino Plush, Riley Parker Hunter </Title>
+</head>
