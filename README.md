@@ -6,6 +6,7 @@
       <p>Riley Parker Hunter is a pink dinosaur with an angy look on its face. It has white spikes on its back and a white underbelly.They are 10.5 inches tall (26.67 in non-freedom units <em><strong>cough cough</strong></em> cm), 6.13 inches long (15.57 cm) and 6.38 inches wide (16.2 cm) from the base but is 4.38 inches head wide (11.12 cm). They also have stubby little arms like a T-Rex.</p>
     <h2> Personality </h2>
       <p> Riley Parker Hunter is a dynamic being. They are extremely smart and they love adventure. That is clearly seen by how it loves to do wild and dangerous things as shown by the picture below. They are also a leader, though the other plushies all claim that they are a tyrant but nobody knows where that propaganda comes from as all people who visit and see Riley Parker Hunter all can see that they are a well-mannered being who is very polite. </p>
+  <img src="
     <h2> Diet </h2>
       <p> Riley Parker Hunter is a being of very picky taste. They will only eat the best of the best slices of cake. Anything else is out of the question. Meat, veggies, grains, those are not it chief. Riley Parker Hunter lives by the motto "If the nourishment is not as sweet as bonbons, then the nourishment is something I will be unable to can eat." Wise words to live by, no health risks involved by entering a pure cake diet.</p>
     <h2> History </h2>
