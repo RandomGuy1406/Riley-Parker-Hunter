@@ -1,6 +1,6 @@
 # Riley Parker Hunter
 <html>
-<head>Here is the one and only, Riley Parker Hunter</head>
+<center>><head></center>Here is the one and only, Riley Parker Hunter</head></center>
 <body style="background:lightpink;">
   <h1> All about Riley Parker Hunter</H1>
     <img src="IMG_3845.jpg" length="800" width="450"/>
