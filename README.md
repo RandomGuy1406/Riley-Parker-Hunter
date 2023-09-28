@@ -20,6 +20,6 @@
       <h3> Present</h3>
         <p> Currently, Riley Parker Hunter sits in top of the 3rd column of Mac A (column 1 is the one closest to the front door of Mac A), the place where Eamon Marchant teaches AP Computer Science as well as AP Physics, and they are adored by all students who lay their eyes upon it. </p>
 <center><p> <img src="IMG_3846.jpg" width="400" length="400"/></p></center>
-  <h6> All pictures of the Dino are accredited to Vivasvat Binny, Class of 2026
+  <h6> All pictures of the Dino are accredited to Vivasvat Binny, Class of 2026</h6>
 </body>
 </html>
