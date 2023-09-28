@@ -1,6 +1,6 @@
 # A One-of-a-Kind Dinosaur Stands Above All
 <html>
-<center>><head>In-Depth Description on the Lovable Plush</head></center>
+<center><head>In-Depth Description on the Lovable Plush</head></center>
 <body style="background:lightpink;">
   <h1> All about Riley Parker Hunter</H1>
     <img src="IMG_3845.jpg" length="800" width="450"/>
